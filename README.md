@@ -1,5 +1,7 @@
 # Podium
-This repository contains the web scraping code of Python using Beautiful Soup for our project **Podium**.
+This repository contains the web scraping code of Python using Beautiful Soup for our project **Podium**. This is a hackathon project for Hack Girl Summer 3 hackathon hosted by MLH.
+
+Our site link:- https://shafnazainabfahim.wixsite.com/podium 
 
 ## Inspiration 🥳
 A study found out that in 2020, women comprise only 28.8% of the tech workforce. While this has been a slight increase from what it was in 2018, we wanted to contribute to changing the same. This is how we came up with **Podium**.
